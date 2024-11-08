@@ -1,0 +1,11 @@
+disease,symptom1,symptom2,symptom3,symptom4,symptom5,symptom6,symptom7
+Alzheimer's Disease,Memory loss,Confusion,Disorientation,Language problems,Mood changes,Behavioral changes,
+Asthma,Wheezing,Shortness of breath,Chest tightness,Coughing,Sleep disturbance,,
+Breast Cancer,Breast lump,Breast changes,Nipple changes,Skin changes,Breast pain,,
+Coronary Artery Disease,Chest pain,Shortness of breath,Palpitations,Dizziness,Nausea,Sweating,
+Diabetes Mellitus Type 1,Increased thirst,Frequent urination,Extreme hunger,Weight loss,Fatigue,Blurred vision,
+Diabetes Mellitus Type 2,Increased thirst,Frequent urination,Increased hunger,Weight loss,Fatigue,Blurred vision,
+Ischemic Stroke,Numbness,Weakness,Confusion,Speech problems,Vision problems,Balance problems,Severe headache
+Lung Carcinoma,Persistent cough,Coughing blood,Chest pain,Hoarseness,Shortness of breath,Weight loss,
+Parkinson's Disease,Tremor,Muscle stiffness,Balance problems,Slow movement,Speech changes,Writing changes,
+Pulmonary Fibrosis,Shortness of breath,Dry cough,Fatigue,Weight loss,Joint pain,Finger clubbing,
